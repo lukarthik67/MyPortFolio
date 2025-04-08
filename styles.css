@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #e3f2fd, #fff3e0);
+    color: #333;
+    padding: 40px;
+    margin: 0;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: auto;
+    background-color: white;
+    border-radius: 10px;
+    padding: 40px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.1);
+  }
+  
+  h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+  }
+  
+  .description {
+    font-size: 18px;
+    color: #666;
+  }
+  
+  .resume {
+    display: inline-block;
+    margin: 20px 0;
+    padding: 10px 20px;
+    background: #1976d2;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .resume:hover {
+    background: #0d47a1;
+  }
+  
+  .projects, .contact {
+    margin-top: 40px;
+  }
+  
+  .project h3 {
+    margin-bottom: 5px;
+  }
+  
+  a {
+    margin-right: 10px;
+    color: #1976d2;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
